@@ -67,7 +67,7 @@ Contributed as part of an engineering team, developing role-based financial repo
 - [DAGONG](https://dagong-co.com/) — Trading and shipping
 - [TravelMood](https://travelmood.agency/) — Tourism and travel programs
 - [Goldenelocke](https://www.goldenelocke.com/) — German barbershop website
-- [Imad Selim](https://imad-selim.vercel.app/) — Music and artist portfolio
+- [Imad Selim](http://imadselimofficial.com/) — Music and artist portfolio
 
 ---
 
